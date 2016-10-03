@@ -50,6 +50,6 @@ Get Open Issues Count
 * GetOpenIssuesCount how many open issues do I have 
 
 
-**Deploy to a **
+**Deploy** to a 
 [Alexa Web Services](https://aws.amazon.com/alexa/)
-Alexa's Web Services offer a platform for creating services based on Alexa's.
+
