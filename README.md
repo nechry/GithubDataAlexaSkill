@@ -1,7 +1,7 @@
 # GithubDataAlexaSkill
 Demo Alexa Skill to query the Github API on a specific repository. *Only for learning Alexa Skill* 
 
-(Get started)[https://developer.amazon.com/public/solutions/alexa]
+[Get started](https://developer.amazon.com/public/solutions/alexa)
 
 
 [The Intent Schema](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/defining-the-voice-interface#h2_intents)
