@@ -51,5 +51,5 @@ Get Open Issues Count
 
 
 **Deploy** to aws a 
-[lambda Services](https://eu-west-1.console.aws.amazon.com/lambda/home?region=eu-west-1#)
+[lambda function](https://eu-west-1.console.aws.amazon.com/lambda/home?region=eu-west-1#)
 
