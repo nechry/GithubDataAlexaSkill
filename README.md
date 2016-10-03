@@ -50,6 +50,6 @@ Get Open Issues Count
 * GetOpenIssuesCount how many open issues do I have 
 
 
-**Deploy** to a 
-[Alexa Web Services](https://aws.amazon.com/alexa/)
+**Deploy** to aws a 
+[lambda Services](https://eu-west-1.console.aws.amazon.com/lambda/home?region=eu-west-1#)
 
