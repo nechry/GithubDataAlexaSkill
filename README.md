@@ -4,7 +4,7 @@ Demo Alexa Skill to query the Github API on a specific repository. *Only for lea
 [Get started](https://developer.amazon.com/public/solutions/alexa)
 
 
-[The Intent Schema](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/defining-the-voice-interface#h2_intents)
+**[The Intent Schema](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/defining-the-voice-interface#h2_intents)**
 Is a JSON structure which declares the set of intents your service can accept and process.
 ```
 {
@@ -23,12 +23,12 @@ Is a JSON structure which declares the set of intents your service can accept an
 ```
 
 
-[Slots](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/defining-the-voice-interface#h2_speech_input)
+**[Slots](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/defining-the-voice-interface#h2_speech_input)**
 You provide the mappings between the intents and the typical utterances that invoke those intents by adding sets of values for any custom slots supported by your skill and a list of sample utterances.
 * N/A
 
 
-[Utterances](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/defining-the-voice-interface#h2_sample_utterances)
+**[Utterances](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/defining-the-voice-interface#h2_sample_utterances)**
 Each possible sample utterance is assigned to one of the defined intents.
 
 Get Subscriber Count
@@ -50,5 +50,6 @@ Get Open Issues Count
 * GetOpenIssuesCount how many open issues do I have 
 
 
+**Deploy to a AWS**
 [Alexa Web Services](https://aws.amazon.com/alexa/)
 Alexa's Web Services offer a platform for creating services based on Alexa's.
