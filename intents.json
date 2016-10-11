@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "GetSubscriberCount"
+    },
+    {
+      "intent": "GetStartCount"
+    },
+    {
+      "intent": "GetOpenIssuesCount"
+    }
+  ]
+}
